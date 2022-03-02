@@ -1,0 +1,36 @@
+{
+  "trend": [
+    {
+      "id": "1",
+      "pair": "KNCUSD",
+      "trend": "12",
+      "hour": "6",
+      "price": "24"
+    },
+    {
+      "id": "2",
+      "pair": "XRPUSD",
+      "trend": "43",
+      "hour": "23",
+      "price": "1"
+    },
+    {
+      "id": "3",
+      "pair": "ETHUSD",
+      "trend": "33",
+      "hour": "5",
+      "price": "15"
+    },
+    {
+      "id": "4",
+      "pair": "SOLUSD",
+      "trend": "42",
+      "hour": "2",
+      "price": "22"
+    }
+  ],
+  "items": [
+    { "id": 1, "name": "Apples",  "price": "$2" },
+    { "id": 2, "name": "Peaches", "price": "$5" }
+  ]
+}
