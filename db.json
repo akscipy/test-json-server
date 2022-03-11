@@ -34,9 +34,9 @@
     { "id": 2, "name": "Peaches", "price": "$5" }
   ],
   "topBullCoins": [
-    { "id": 1, "pair": "XTZUSD",  "price": "12",  "hour": "6",  "volume": "2400000" },
-    { "id": 1, "pair": "ADAUSD",  "price": "1.234",  "hour": "0",  "volume": "370000000" },
-    { "id": 1, "pair": "ETHUSD",  "price": "2.912",  "hour": "16",  "volume": "2400000" },
-    { "id": 1, "pair": "LINKUSD",  "price": "305",  "hour": "-3",  "volume": "60700000" },
+    { "id": "1", "pair": "XTZUSD",  "price": "12",  "hour": "6",  "volume": "2400000" },
+    { "id": "2", "pair": "ADAUSD",  "price": "1.234",  "hour": "0",  "volume": "370000000" },
+    { "id": "3", "pair": "ETHUSD",  "price": "2.912",  "hour": "16",  "volume": "2400000" },
+    { "id": "4", "pair": "LINKUSD",  "price": "305",  "hour": "-3",  "volume": "60700000" },
   ]
 }
