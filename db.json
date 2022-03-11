@@ -30,8 +30,8 @@
     }
   ],
   "items": [
-    { "id": 1, "name": "Apples",  "price": "$2" },
-    { "id": 2, "name": "Peaches", "price": "$5" }
+    { "id": "1", "name": "Apples",  "price": "$2" },
+    { "id": "2", "name": "Peaches", "price": "$5" }
   ],
   "topBullCoins": [
     { "id": "1", "pair": "XTZUSD",  "price": "12",  "hour": "6",  "volume": "2400000" },
