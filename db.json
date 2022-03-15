@@ -3,7 +3,7 @@
     {
       "id": "1",
       "pair": "KNCUSD",
-      "trend": "12",
+      "trend": "1",
       "hour": "6",
       "price": "24",
       "volume": "23452352"
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "pair": "SOLUSD",
-      "trend": "55",
+      "trend": "-1",
       "hour": "12",
       "price": "4",
       "volume": "5463423"
@@ -19,7 +19,7 @@
     {
       "id": "3",
       "pair": "ETHUSD",
-      "trend": "33",
+      "trend": "0",
       "hour": "5",
       "price": "15",
       "volume": "12423213"
@@ -27,7 +27,7 @@
     {
       "id": "4",
       "pair": "SOLUSD",
-      "trend": "42",
+      "trend": "1",
       "hour": "2",
       "price": "22",
       "volume": "5992347"
