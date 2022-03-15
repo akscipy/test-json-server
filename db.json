@@ -5,28 +5,32 @@
       "pair": "KNCUSD",
       "trend": "12",
       "hour": "6",
-      "price": "24"
+      "price": "24",
+      "volume": "23452352"
     },
     {
       "id": "2",
       "pair": "XRPUSD",
       "trend": "43",
       "hour": "23",
-      "price": "1"
+      "price": "1",
+      "volume": "5463423"
     },
     {
       "id": "3",
       "pair": "ETHUSD",
       "trend": "33",
       "hour": "5",
-      "price": "15"
+      "price": "15",
+      "volume": "12423213"
     },
     {
       "id": "4",
       "pair": "SOLUSD",
       "trend": "42",
       "hour": "2",
-      "price": "22"
+      "price": "22",
+      "volume": "5992347"
     }
   ],
   "items": [
